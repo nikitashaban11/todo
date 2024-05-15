@@ -3,7 +3,9 @@
 Backend:
 
 - cd server and npm run start
-  Frontend:
+
+Frontend:
+
 - in the root folder npm run dev
 
 # React + TypeScript + Vite
